@@ -12,7 +12,7 @@
 
 ```swift
 struct Developer {
-    let name = "Jihoon"
+    let name = "JaeHoon"
     let role = "iOS Developer"
     let academy = "Apple Developer Academy @ POSTECH"
 }
