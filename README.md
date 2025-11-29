@@ -46,11 +46,6 @@ struct Developer {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-147EFB?style=for-the-badge&logo=icloud&logoColor=white)
 
-### 🤝 Collaboration
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
 </div>
 
 ## 🤝 Collaboration
