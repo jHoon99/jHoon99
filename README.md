@@ -53,8 +53,6 @@ struct Developer {
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 </div>
 
-<br>
-
 ## 📫 Contact
 
 <div align="center">
