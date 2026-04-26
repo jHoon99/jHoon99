@@ -32,12 +32,10 @@ struct Developer {
 
 <div align="center">
 
-### 📱 iOS Development
+### 📱 Mobile
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=swift&logoColor=white)
-
-### 💙 Flutter Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
