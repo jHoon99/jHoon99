@@ -61,7 +61,7 @@ struct Developer {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jHoon99&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jHoon99&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jHoon99&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=fast_app_base" height="165" />
 
 </div>
 
