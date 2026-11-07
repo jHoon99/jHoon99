@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=1px&pause=1000&color=A44EF7&background=9609FF00&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+JaeHoon)](https://git.io/typing-svg)
 
-**Mobile Developer** from 🇰🇷 South Korea
+**Software Engineer** from 🇰🇷 South Korea
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jHoon99&utm_content=farm">
 <img
@@ -21,10 +21,15 @@
 ```swift
 struct Developer {
     let name = "JaeHoon"
-    let role = "Mobile Developer"
+    let role = "Software Engineer"
     let academy = "Apple Developer Academy @ POSTECH"
+    let journey = ["Mobile", "Web", "Data Infra", "Real-time", "AI-assisted Development"]
+    let workflow = "Define Problem → Build → Ship & Operate → Validate"
 }
 ```
+
+모바일 개발에서 시작해 웹, 데이터 인프라, 실시간 통신, AI 기반 개발까지 영역을 넓혀왔습니다.
+사용자의 문제를 정의하고, 직접 구현해 실제로 출시·운영하며, 그 결과를 검증하는 과정을 중요하게 생각합니다.
 
 <br>
 
@@ -39,12 +44,47 @@ struct Developer {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
+### 🌐 Web
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🗄 Data
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 📡 Real-time
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![LiveKit SDK](https://img.shields.io/badge/LiveKit_SDK-1F1F1F?style=for-the-badge&logo=livekit&logoColor=white)
+
+### 🥽 Spatial
+![visionOS](https://img.shields.io/badge/visionOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![RealityKit](https://img.shields.io/badge/RealityKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🤖 AI Development
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![AI Agent Workflows](https://img.shields.io/badge/AI_Agent_Workflows-A44EF7?style=for-the-badge)
+
 ### 🚀 CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Xcode Cloud](https://img.shields.io/badge/Xcode_Cloud-147EFB?style=for-the-badge&logo=icloud&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 
 </div>
+
+## 🧠 How I Work with AI
+
+<div align="center">
+
+`Problem Definition → Design → AI-Assisted Development → Code Review → QA & Release`
+
+</div>
+
+Claude Code를 활용해 신규 기능 개발과 리팩토링을 진행합니다.
+AI가 구현과 오류 분석을 지원하고, 요구사항 정의·기술적 의사결정·코드 검토·검증은 직접 책임집니다.
+
+Supabase 오류 로그를 활용한 AI 분석·수정안 제안과 Human-in-the-loop 승인 절차도 개발 워크플로우에 적용했습니다.
 
 ## 🧰 Tools
 
