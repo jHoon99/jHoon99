@@ -73,19 +73,6 @@ struct Developer {
 
 </div>
 
-## 🧠 How I Work with AI
-
-<div align="center">
-
-`Problem Definition → Design → AI-Assisted Development → Code Review → QA & Release`
-
-</div>
-
-Claude Code를 활용해 신규 기능 개발과 리팩토링을 진행합니다.
-AI가 구현과 오류 분석을 지원하고, 요구사항 정의·기술적 의사결정·코드 검토·검증은 직접 책임집니다.
-
-Supabase 오류 로그를 활용한 AI 분석·수정안 제안과 Human-in-the-loop 승인 절차도 개발 워크플로우에 적용했습니다.
-
 ## 🧰 Tools
 
 <div align="center">
